@@ -10,3 +10,7 @@ This web site is in two languages one is english and other one is latin, the hea
 I have used microsoft azure "static web apps" to deploy my website.
 
 Here is the link to website:https://kind-moss-02fcf9810.1.azurestaticapps.net
+
+SCREENSHOTS:
+ Home-
+ ![image](https://user-images.githubusercontent.com/70840432/173188013-09fc241e-7864-4820-817b-79de3c276889.png)
