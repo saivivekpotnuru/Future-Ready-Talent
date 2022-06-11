@@ -8,3 +8,5 @@ In this I have created a website called yummy blog in which you can see some sim
 This web site is in two languages one is english and other one is latin, the headings are in english and the info is in latin.
 
 I have used microsoft azure "static web apps" to deploy my website.
+
+Here is the link to website:https://kind-moss-02fcf9810.1.azurestaticapps.net
